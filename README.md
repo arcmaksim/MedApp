@@ -7,3 +7,4 @@
 - https://github.com/rey5137/material
 
 Использованна сторонняя библиотека Joda-Time
+- http://www.joda.org/joda-time/
