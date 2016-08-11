@@ -8,3 +8,5 @@
 
 Использованна сторонняя библиотека Joda-Time
 - http://www.joda.org/joda-time/
+
+Само приложение находится в MedApp/app/build/outputs/apk/app-debug.apk
