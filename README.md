@@ -10,3 +10,9 @@
 - http://www.joda.org/joda-time/
 
 Само приложение находится в MedApp/app/build/outputs/apk/app-debug.apk
+
+Пользователи и пароли:
+- user1@gmail.com : 1111
+- user2@gmail.com : 2222
+- user3@gmail.com : 3333
+- user4@gmail.com : 4444
