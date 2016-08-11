@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:9:22-69
+application
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:11:5-29:19
+MERGED from [com.android.support:cardview-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.blunderer:materialdesignlibrary:2.0.4] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.blunderer\materialdesignlibrary\2.0.4\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.artsybasov.medapp.ScheduleActivity
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:17:9-20:20
+	android:label
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:18:13-45
+activity#com.artsybasov.medapp.LoginActivity
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:label
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:23:13-57
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:22:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.rey5137:material:1.2.4] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.blunderer:materialdesignlibrary:2.0.4] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.blunderer\materialdesignlibrary\2.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.joooonho:selectableroundedimageview:1.0.1] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.joooonho\selectableroundedimageview\1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [tk.zielony:carbon:0.6.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\tk.zielony\carbon\0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [fr.baloomba:viewpagerindicator:2.4.2] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\fr.baloomba\viewpagerindicator\2.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioWorkspace\MedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioWorkspace\MedApp\app\src\main\AndroidManifest.xml

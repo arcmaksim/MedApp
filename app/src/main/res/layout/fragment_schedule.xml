@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_schedule"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.rey.material.widget.Spinner
+        android:id="@+id/spinner"
+        style="@style/Material.Widget.Spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:rd_style="@style/Material.Drawable.Ripple.Wave"
+        android:minHeight="48dp"
+        android:layout_margin="16dp" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout_day"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/spinner"
+        android:weightSum="100" >
+
+        <ImageButton
+            android:id="@+id/previous_day"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="15"
+            android:src="@mipmap/ic_arrow_back_black_24dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:enabled="false" />
+
+        <TextView
+            android:id="@+id/current_day"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_weight="70" />
+
+        <ImageButton
+            android:id="@+id/next_day"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_arrow_forward_black_24dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_weight="15" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/linear_layout_day"
+        android:paddingLeft="16dp"
+        android:paddingBottom="16dp"
+        android:paddingRight="16dp" >
+
+        <TextView
+            android:id="@+id/no_schedule_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_schedule"
+            android:layout_centerInParent="true" />
+
+        <ListView
+            android:id="@+id/schedule_list_view"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
