@@ -1,6 +1,7 @@
 # MedApp
 
-Поддерживаемые версии ОС Android: 4.0.3 (API 15) - 5.1.1 (API 22)
+Тестовое задание
+Минимальная требуемая версия ОС Android: 4.0.3 (API 15)
 
 Использованны сторонние проекты:
 - https://github.com/DenisMondon/material-design-library
